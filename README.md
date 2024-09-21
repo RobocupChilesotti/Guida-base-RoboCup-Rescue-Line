@@ -82,7 +82,7 @@ I dati sui quadrati vengono estrapolati ad esempio [qui](https://github.com/B1gG
 
 La calibrazione si effettua rispetto ai parametri dello spazio colore HSV, nel caso in esempio a riga [7](https://github.com/B1gGi0/RescueLine_New/blob/main/line/colors_menagement.py#L7) e [8](https://github.com/B1gGi0/RescueLine_New/blob/main/line/colors_menagement.py#L8), l'immagine qui sotto aiuta a capire il funzionamento dell'HSV e la ragione per cui viene usato (è più semplice per rappresentare range di tonalità).
 
-![HSV_color_solid_cylinder_saturation_gray](https://github.com/user-attachments/assets/65028e2a-4f31-4b7f-ba48-7386362ce120)
+![HSV_color_solid_cylinder_saturation_gray](https://github.com/user-attachments/assets/52e5aaa9-8195-4441-ba84-8ff9bb6f4a2f)
 
 Per effettuare materialmente la calibrazione esiste [questo tool](https://github.com/B1gGi0/RescueLine_New/blob/main/line/ColorPickerScript.py) molto comodo. Un esempio del suo utilizzo si può trovare [qui](https://youtu.be/6WcMva128WI?feature=shared&t=422).
 
