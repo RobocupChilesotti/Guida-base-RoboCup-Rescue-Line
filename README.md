@@ -8,7 +8,7 @@ Breve guida per lo sviluppo di un robot CV-based per RoboCup Rescue Line
   * [Kernel](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#kernel)
   * [Acquisizione Immagini](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#acquisizione-immagini)
   * [Comunicazione Seriale](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#comunicazione-seriale)
-  * [Altri elementi mancanti in example 2](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#altri-elementi-mancanti-in-example-2)
+  * [Altri elementi mancanti in example 2](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#altri-elementi-mancanti-in-example_2)
 
 ## Repo
 
