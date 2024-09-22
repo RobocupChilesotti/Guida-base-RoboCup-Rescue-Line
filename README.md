@@ -109,6 +109,6 @@ La calibrazione è effettuata in relazione allo spessore della linea nell'immagi
 Per quanto riguarda l'aspetto fisico del vostro robot le cose da tenere in considerazione sono molte, da tenere sempre bene a mente nella progettazione è la [legge di Murphy](https://it.wikipedia.org/wiki/Legge_di_Murphy). Per questo dovete essere in grado di cambiare qualsiasi pezzo del robot, anche durante le gare, in meno di 30 minuti. Questo vincola due aspetti fondamentali per i quali lottare:
 * Avere un buon disegno che permetta uno smontaggio semplice di qualsiasi pezzo
 * Avere **pezzi di ricambio** (lottate con le istituzioni)
-##Disegno
-##Circuiti
+## Disegno
+## Circuiti
 La nostra soluzione è stata la creazione di una scheda millefori che facesse da shield all'arduino, così da riuscire a sostituire l'arduino velocemente in caso di rottura. La soluzione migliore sarebbe avere due pcb (una montata e una di scorta). Tuttavia non si deve perdere troppo tempo nel disegno della scheda stampata o nel cablaggio (specialmente se nel team si è in pochi).
