@@ -1,6 +1,7 @@
 # Guida-base-RoboCup-Rescue-Line
 Breve guida per lo sviluppo di un robot CV-based per RoboCup Rescue Line
-#Indice
+## Indice
+* [Contatti](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#contatti)
 * [Repo](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#repo)
 * [Seguilinea](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#seguilinea)
   * [Concetti base](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#concetti-base)
@@ -10,7 +11,7 @@ Breve guida per lo sviluppo di un robot CV-based per RoboCup Rescue Line
     * [Comunicazione Seriale](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#comunicazione-seriale)
     * [Altri elementi mancanti in example 2](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#altri-elementi-mancanti-in-example_2)
 * [Hardware](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#Hardware) 
-
+## Contatti
 ## Repo
 
 Questa guida è basata sulle seguenti repo:
