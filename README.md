@@ -1,9 +1,9 @@
 # Guida-base-RoboCup-Rescue-Line
 Breve guida per lo sviluppo di un robot CV-based per RoboCup Rescue Line
 #Indice
-* [Repo](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/edit/main/README.md#repo)
-* [Seguilinea](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/edit/main/README.md#seguilinea)
-* [Concetti base](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/edit/main/README.md#concetti_base)
+* [Repo](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#repo)
+* [Seguilinea](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#seguilinea)
+* [Concetti base](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#concetti_base)
 
 ## Repo
 
