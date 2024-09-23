@@ -14,14 +14,17 @@ Breve guida per lo sviluppo di un robot CV-based per RoboCup Rescue Line
 ## Contatti
 ### Email
 giovannimanzardo05@gmail.com
+
 giovipegoraro@gmail.com
 
 ### Telegram
 @Big_Gi0
+
 @giovipeg
 
 ### Cell.
 351 949 4991
+
 366 727 0499
 
 ## Repo
