@@ -12,6 +12,18 @@ Breve guida per lo sviluppo di un robot CV-based per RoboCup Rescue Line
     * [Altri elementi mancanti in example 2](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#altri-elementi-mancanti-in-example_2)
 * [Hardware](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#Hardware) 
 ## Contatti
+### Email
+giovannimanzardo05@gmail.com
+giovipegoraro@gmail.com
+
+### Telegram
+@Big_Gi0
+@giovipeg
+
+### Cell.
+351 949 4991
+366 727 0499
+
 ## Repo
 
 Questa guida è basata sulle seguenti repo:
@@ -111,5 +123,26 @@ Per quanto riguarda l'aspetto fisico del vostro robot le cose da tenere in consi
 * Avere un buon disegno che permetta uno smontaggio semplice di qualsiasi pezzo
 * Avere **pezzi di ricambio** (lottate con le istituzioni)
 ### Disegno
+I file sono disponibili su [WeTransfer](aggiungere_link) fino al inserire_data. Sono file SolidWorks ma dovrebbero poter essere aperti con Fusion, ad ogni modo, in caso di necessità li possiamo convertire.
+
+Se si volesse reverse-engineerizzare il nostro robot, anche avendo i file CAD sarebbe consigliabile smontarlo per capire come funziona. Smontarlo è complicato, in fase di progettazione, se possibile, sarebbe opportuno creare un robot che sia relativamente FACILE da smontare ed i cui componenti siano FACILMENTE accessibili per la manutenzione.
+
+Per smonralo si procede così:
+- si svitano i bulloni sul coperchio (c'è anche una vitina sul foro superiore del servo della telecamere, la si svita dal lato)
+- ora il robo di può aprire  e si hanno due metà. Si disconnettono i cavi che vanno dalla millefori alla parte superiore
+- ora è possibile smontare i diversi componeti
+- a questo punto di possono staccare le staffe dei motori
+- per staccare i motori dalle staffe bisogna allentare i bulloni M4 paralleli al terreno che si trovano subito sopra i motori
+
+Il disegno è specifico per i nostri componenti, la modifica è complicata a causa delle relazioni tra i vari componenti. Tuttavia ci sono alcuni aspetti che si potrebbero riutilizzare. In particolare, a parità di motori e batteria potrebbe essere interessante riutilizzare il pianale e le relative staffe per i motori, in questo caso però emerge una criticità. La composizione riesce ad essere molto compatta in questa maniera, a scapito della praticità: per smontare un motore è necessario smontare entrambe le staffe che lo sostengono. Questo è possibile solamente svitando i bulloncini dalla parte superiore del pianale, che nel nostro caso era coperto di componenti a loro volta avvitati. In sostanza era difficilissimo smontare ed eventualmente sostituire un motore. Ovviando a questo problema, tuttavia, la base sarebbe valida dal momento che un robot compatto presenta numerosi vantaggi dal momento che permette dtolleranze maggiori a livello di scostamento del robot dalla linea a livello sw.
+
+Se si decidesse di usare una base di questo tipo un altro elemento valido sarebbe il posizionamento dei servo frontali. Nel nostro caso la cover di plastica della parte inferiore è stata sostituita con una stampata in 3D che si interfacciasse con il resto della struttura.
+
+Per quanto riguarda il coperchio: non è necessario inclinarlo inoltre l'altezza può essere aumentata. È stato tenuto così basso per MANIE DI PERFEZIONISMO CHE È OPPORTUNO NOM FARSI VENIRE. Più in generale è necessario tenere sempre in considerazione spazio extra per i cablaggi, che sono parecchio voluminosi. Il miglior modo di ottenere spazio è verso l'alto, ovviamente facendo attenzione a non spostare troppo il baricentro (soprattutto per le altalene) e a non ecedere l'altezza max. indicata nel regolamento (meglio tenere una soglia di sicurezza e farlo un po' di cm più basso).
+
+I cassoni funzionano bene.
+
+La pinza è carina, anzi, esteticamente è molto bella MA QUELLO NON DEVE ESSERE L'OBBIETTIVO. È comoda perchè ha un'apertura ampia, quindi di nuovo richiede meno precisione, il problema è che, quando la pallina è di fianco ad una parete (e succede più spesso di quanto si immagini) la pinza sbatte contro il muro e di conseguenza non riesce a prendere la pallina.
+
 ### Circuiti
 La nostra soluzione è stata la creazione di una scheda millefori che facesse da shield all'arduino, così da riuscire a sostituire l'arduino velocemente in caso di rottura. La soluzione migliore sarebbe avere due pcb (una montata e una di scorta). Tuttavia non si deve perdere troppo tempo nel disegno della scheda stampata o nel cablaggio (specialmente se nel team si è in pochi).
