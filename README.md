@@ -126,7 +126,7 @@ Per quanto riguarda l'aspetto fisico del vostro robot le cose da tenere in consi
 * Avere un buon disegno che permetta uno smontaggio semplice di qualsiasi pezzo
 * Avere **pezzi di ricambio** (lottate con le istituzioni)
 ### Disegno
-I file sono disponibili su [WeTransfer](aggiungere_link) fino al inserire_data. Sono file SolidWorks ma dovrebbero poter essere aperti con Fusion, ad ogni modo, in caso di necessità li possiamo convertire.
+I file sono disponibili su [WeTransfer](https://we.tl/t-yPsNFrlfjO) fino al 01/10/2024. Sono file SolidWorks ma dovrebbero poter essere aperti con Fusion, ad ogni modo, in caso di necessità li possiamo convertire.
 
 Il disegno è specifico per i nostri componenti, la modifica è complicata a causa delle relazioni tra i vari componenti. Tuttavia ci sono alcuni aspetti che si potrebbero riutilizzare. In particolare, a parità di motori e batteria potrebbe essere interessante riutilizzare il pianale e le relative staffe per i motori, in questo caso però emerge una criticità. La composizione riesce ad essere molto compatta in questa maniera, a scapito della praticità: per smontare un motore è necessario smontare entrambe le staffe che lo sostengono. Questo è possibile solamente svitando i bulloncini dalla parte superiore del pianale, che nel nostro caso era coperto di componenti a loro volta avvitati. In sostanza era difficilissimo smontare ed eventualmente sostituire un motore. Ovviando a questo problema, tuttavia, la base sarebbe valida dal momento che un robot compatto presenta numerosi vantaggi dal momento che permette dtolleranze maggiori a livello di scostamento del robot dalla linea a livello sw.
 
