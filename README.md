@@ -128,15 +128,6 @@ Per quanto riguarda l'aspetto fisico del vostro robot le cose da tenere in consi
 ### Disegno
 I file sono disponibili su [WeTransfer](aggiungere_link) fino al inserire_data. Sono file SolidWorks ma dovrebbero poter essere aperti con Fusion, ad ogni modo, in caso di necessità li possiamo convertire.
 
-Se si volesse reverse-engineerizzare il nostro robot, anche avendo i file CAD sarebbe consigliabile smontarlo per capire come funziona. Smontarlo è complicato, in fase di progettazione, se possibile, sarebbe opportuno creare un robot che sia relativamente FACILE da smontare ed i cui componenti siano FACILMENTE accessibili per la manutenzione.
-
-Per smonralo si procede così:
-- si svitano i bulloni sul coperchio (c'è anche una vitina sul foro superiore del servo della telecamere, la si svita dal lato)
-- ora il robo di può aprire  e si hanno due metà. Si disconnettono i cavi che vanno dalla millefori alla parte superiore
-- ora è possibile smontare i diversi componeti
-- a questo punto di possono staccare le staffe dei motori
-- per staccare i motori dalle staffe bisogna allentare i bulloni M4 paralleli al terreno che si trovano subito sopra i motori
-
 Il disegno è specifico per i nostri componenti, la modifica è complicata a causa delle relazioni tra i vari componenti. Tuttavia ci sono alcuni aspetti che si potrebbero riutilizzare. In particolare, a parità di motori e batteria potrebbe essere interessante riutilizzare il pianale e le relative staffe per i motori, in questo caso però emerge una criticità. La composizione riesce ad essere molto compatta in questa maniera, a scapito della praticità: per smontare un motore è necessario smontare entrambe le staffe che lo sostengono. Questo è possibile solamente svitando i bulloncini dalla parte superiore del pianale, che nel nostro caso era coperto di componenti a loro volta avvitati. In sostanza era difficilissimo smontare ed eventualmente sostituire un motore. Ovviando a questo problema, tuttavia, la base sarebbe valida dal momento che un robot compatto presenta numerosi vantaggi dal momento che permette dtolleranze maggiori a livello di scostamento del robot dalla linea a livello sw.
 
 Se si decidesse di usare una base di questo tipo un altro elemento valido sarebbe il posizionamento dei servo frontali. Nel nostro caso la cover di plastica della parte inferiore è stata sostituita con una stampata in 3D che si interfacciasse con il resto della struttura.
