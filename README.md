@@ -124,6 +124,9 @@ N.B.: la funzione `crossing_logic()` va calibrata. La calibrazione è da effettu
 
 La calibrazione è effettuata in relazione allo spessore della linea nell'immagine: a seconda di divesri parametri (risoluzione dell'immagine, altezza della telecamera, % di frame tagliata, ecc.) la dimenisione media della linea (in pixel) varia grandemente. I kernel vanno tarati in maniera tale da ricoprire la giusta porzione di linea per permettere le diverse operazioni di intersezione tra le diverse aree.
 
+### Accesso al robot
+La password è: `Ttino`, la cartella con il software più aggiornato è `RescueLine_New`, si trova sul desktop assieme a tutto il resto del codice rilevante. Purtroppo non ricordiamo in quale cartella (sempre del Desktop) è presente una sottocartella chiamata `Prestito` che contiene il sw del robot di Sartore.
+
 ## Hardware
 Per quanto riguarda l'aspetto fisico del vostro robot le cose da tenere in considerazione sono molte, da tenere sempre bene a mente nella progettazione è la [legge di Murphy](https://it.wikipedia.org/wiki/Legge_di_Murphy). Per questo dovete essere in grado di cambiare qualsiasi pezzo del robot, anche durante le gare, in meno di 30 minuti. Questo vincola due aspetti fondamentali per i quali lottare:
 * Avere un buon disegno che permetta uno smontaggio semplice di qualsiasi pezzo
