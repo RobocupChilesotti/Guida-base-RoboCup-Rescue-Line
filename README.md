@@ -103,6 +103,9 @@ Al De Pretto sembrano adottare un sistema molto più affidabile rispetto al nost
 
 Rispetto al Pi4 il Pi5 non solo ha una CPU più performante, ma anche un nuovo chip (l'RP1) per la gestione del GPIO. Non sappiamo se, coombinati, questi due aspetti possano permettere di utilizzare direttamente il GPIO del Raspberry bypassando l'Arduino e tutte le problematiche associate alla comunicazione seriale. Avendo un po' di tempo potrebbe essere interessante fare una prova in questo senso.
 
+### Accesso
+La password è: `Ttino`, la cartella con il software più aggiornato è `RescueLine_New`, si trova sul desktop assieme a tutto il resto del codice rilevante. Purtroppo non ricordiamo in quale cartella (sempre del Desktop) è presente una sottocartella chiamata `Prestito` che contiene il sw del robot di Sartore. È consigliabile effettuare il primo accesso con mouse, monitor e tastiera piuttosto che via SSH. L'HDMI deafult è la 0.
+
 ### Altri elementi mancanti in example_2
 #### Riconoscimento colori
 Come detto in precendenza example_2 è un ottimo punto di partenza, la difficoltà reale è integrarlo con gli elementi mancanti, al di là degli aspetti hardware la mancanza principale riguarda gli incroci, che non sono implementati, questi sono trattati qui sotto. Per poter riconoscere gli incroci, però, è essenziale poter distinguere i colori sulla mappa, in particolare il verde legato ai quadrati degli incroci.
@@ -123,9 +126,6 @@ Nella guida menzionata sopra è presente un [video](https://www.youtube.com/watc
 N.B.: la funzione `crossing_logic()` va calibrata. La calibrazione è da effettuare nei kernel, definiti tra [linea 23](https://github.com/B1gGi0/RescueLine_New/blob/main/line/turn_utils2.py#L23) e [linea 32](https://github.com/B1gGi0/RescueLine_New/blob/main/line/turn_utils2.py#L23). Per comprendere al meglio il processo di calibrazione è opportuno vedere per prima cosa il video di cui sopra.
 
 La calibrazione è effettuata in relazione allo spessore della linea nell'immagine: a seconda di divesri parametri (risoluzione dell'immagine, altezza della telecamera, % di frame tagliata, ecc.) la dimenisione media della linea (in pixel) varia grandemente. I kernel vanno tarati in maniera tale da ricoprire la giusta porzione di linea per permettere le diverse operazioni di intersezione tra le diverse aree.
-
-### Accesso al robot
-La password è: `Ttino`, la cartella con il software più aggiornato è `RescueLine_New`, si trova sul desktop assieme a tutto il resto del codice rilevante. Purtroppo non ricordiamo in quale cartella (sempre del Desktop) è presente una sottocartella chiamata `Prestito` che contiene il sw del robot di Sartore.
 
 ## Hardware
 Per quanto riguarda l'aspetto fisico del vostro robot le cose da tenere in considerazione sono molte, da tenere sempre bene a mente nella progettazione è la [legge di Murphy](https://it.wikipedia.org/wiki/Legge_di_Murphy). Per questo dovete essere in grado di cambiare qualsiasi pezzo del robot, anche durante le gare, in meno di 30 minuti. Questo vincola due aspetti fondamentali per i quali lottare:
