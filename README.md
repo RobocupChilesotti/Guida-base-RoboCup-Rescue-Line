@@ -138,13 +138,15 @@ Se si decidesse di usare una base di questo tipo un altro elemento valido sarebb
 Per quanto riguarda il coperchio: non è necessario inclinarlo inoltre l'altezza può essere aumentata. È stato tenuto così basso per MANIE DI PERFEZIONISMO CHE È OPPORTUNO NOM FARSI VENIRE. Più in generale è necessario tenere sempre in considerazione spazio extra per i cablaggi, che sono parecchio voluminosi. Il miglior modo di ottenere spazio è verso l'alto, ovviamente facendo attenzione a non spostare troppo il baricentro (soprattutto per le altalene) e a non ecedere l'altezza max. indicata nel regolamento (meglio tenere una soglia di sicurezza e farlo un po' di cm più basso).
 
 I cassoni funzionano bene.
+
 ![cassoni](https://github.com/user-attachments/assets/cc300d5c-1ba3-4238-afd6-3bb2a0e5b657)
 
-
 La pinza è carina, anzi, esteticamente è molto bella MA QUELLO NON DEVE ESSERE L'OBBIETTIVO. È comoda perchè ha un'apertura ampia, quindi di nuovo richiede meno precisione, il problema è che, quando la pallina è di fianco ad una parete (e succede più spesso di quanto si immagini) la pinza sbatte contro il muro e di conseguenza non riesce a prendere la pallina.
+
 ![image_2024-03-08_17-24-01](https://github.com/user-attachments/assets/98f36562-a378-483c-93b3-125350e4e65d)
 
 Le route sono state concepite in maniera tale da riurre al minimo possibile l'ingombro totale ed in questo senso funzionano eccellentemente. Purtroppo presentano criticità rilevanti, la più grossa è il modo (piuttosto dicutibile) con cui sono calettate all'albero del motore, dal quale tendono a staccarsi.
+
 ![sezione_ruota](https://github.com/user-attachments/assets/0bdd326a-d375-460b-9a05-6615771ecf41)
 
 
