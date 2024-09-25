@@ -1,5 +1,8 @@
 # Guida-base-RoboCup-Rescue-Line
 Breve guida per lo sviluppo di un robot CV-based per RoboCup Rescue Line
+
+![image_2024-03-07_18-54-52](https://github.com/user-attachments/assets/8bd4407a-16bd-410b-837c-979bf12fad82)
+
 ## Indice
 * [Contatti](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#contatti)
 * [Repo](https://github.com/NettunoRobotica/Guida-base-RoboCup-Rescue-Line/blob/main/README.md#repo)
