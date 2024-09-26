@@ -104,7 +104,7 @@ Al De Pretto sembrano adottare un sistema molto più affidabile rispetto al nost
 Rispetto al Pi4 il Pi5 non solo ha una CPU più performante, ma anche un nuovo chip (l'RP1) per la gestione del GPIO. Non sappiamo se, coombinati, questi due aspetti possano permettere di utilizzare direttamente il GPIO del Raspberry bypassando l'Arduino e tutte le problematiche associate alla comunicazione seriale. Avendo un po' di tempo potrebbe essere interessante fare una prova in questo senso.
 
 ### Accesso
-La password dell'account `pi` è: `Ttino`, la cartella con il software più aggiornato è `RescueLine_New`, si trova sul desktop assieme a tutto il resto del codice rilevante. Purtroppo non ricordiamo in quale cartella (sempre del Desktop) è presente una sottocartella che contiene il sw del robot di Sartore. È consigliabile effettuare il primo accesso con mouse, monitor e tastiera piuttosto che via SSH. L'HDMI deafult è la 0. si può poi accedere anche mediante SDH o con VNC. Le credenziali di rete a cui il robot si connette automaticamente sono: SSID 'Nettuno' e la password é 'beduinatormk2'.
+La password dell'account `pi` è: `Ttino`, la cartella con il software più aggiornato è `RescueLine_New`, si trova sul desktop assieme a tutto il resto del codice rilevante. Purtroppo non ricordiamo in quale cartella (sempre del Desktop) è presente una sottocartella che contiene il sw del robot di Sartore. È consigliabile effettuare il primo accesso con mouse, monitor e tastiera piuttosto che via SSH. L'HDMI deafult è la 0. Si può poi accedere anche mediante SDH o con VNC. Le credenziali di rete a cui il robot si connette automaticamente sono: SSID 'Nettuno' e la password é 'beduinatormk2'.
 
 ### Altri elementi mancanti in example_2
 #### Riconoscimento colori
