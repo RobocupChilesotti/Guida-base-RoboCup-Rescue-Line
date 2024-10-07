@@ -30,7 +30,7 @@ giovipegoraro@gmail.com
 
 Questa guida è basata sulle seguenti repo:
 
-https://github.com/gpego/arduino-serial-com
+[https://github.com/gpego/arduino-serial-com]()
 
 https://github.com/gpego/Python-serial-com
 
@@ -38,15 +38,15 @@ https://github.com/B1gGi0/RescueLine_New
 
 https://github.com/B1gGi0/Rescue-line
 
-https://github.com/gpego/lineFollowing
+[https://github.com/gpego/lineFollowing](https://github.com/RobocupChilesotti/lineFollowing)
 
-https://github.com/gpego/tflite
+[https://github.com/gpego/tflite](https://github.com/RobocupChilesotti/tflite)
 
-https://github.com/gpego/robot1
+[https://github.com/gpego/robot1](https://github.com/RobocupChilesotti/robot1)
 
 https://github.com/gpego/newCode
 
-https://github.com/lucaSartore/Robocup-Rescue-Line-simulation
+[https://github.com/lucaSartore/Robocup-Rescue-Line-simulation](https://github.com/RobocupChilesotti/Robocup-Rescue-Line-simulation)
 
 https://github.com/lucaSartore/Dataset-for-robocup-rescue-line
 
