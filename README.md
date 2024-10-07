@@ -25,10 +25,6 @@ giovipegoraro@gmail.com
 
 @giovipeg
 
-### Cell.
-351 949 4991
-
-366 727 0499
 
 ## Repo
 
